@@ -16,7 +16,7 @@ Explain the fundamental concepts of version control and why GitHub is a popular 
       1. History Tracking: View who changed what and when
       2. Branching and Merging: Develop features or fix bugs in isolated branches, then merge changes
       3. Collaboration: Multiple developers can work on the same codebase without overwriting each other
-      4. Backup: Every commit is a backup of the code at that point in time.
+      4. Backup: Every commit is a backup of the code at that point in time
 
 
 
