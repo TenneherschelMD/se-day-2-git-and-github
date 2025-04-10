@@ -56,6 +56,24 @@ Compare and contrast the differences between a public repository and a private r
 
 Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+    # A commit is a snapshot of your project. 
+    # Each commit logs: 
+    - Changes made
+    - When they were made 
+    - Who made them
+
+    # Commits matter because:
+    - Helps in tracking changes
+    - Allows you to roll back to previous versions
+    - Essential for collaborative version control
+    
+    # Steps in making the first commit to a GitHub repository:
+    1. git init
+    2. git add .
+    3. git commit -m "Initial commit"
+    4. git remote add origin https://github.com/username/repo.git
+    5. git push -u origin main
+
 How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
