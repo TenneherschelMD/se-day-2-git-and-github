@@ -101,6 +101,23 @@ How does branching work in Git, and why is it an important feature for collabora
 
 Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
+    # Role in Workflow:
+    1. Used to propose changes from one branch to another (often feature → main)
+    2. Enables code review before merging
+    3. Often triggers automated tests
+
+    # Steps to Create a PR:
+    1. Push your branch to GitHub
+    2. Go to the repo and click “Compare & pull request”
+    3. Add a title and description
+    4. Request reviewers
+    5. Once approved, click “Merge”
+
+    # Benefits:
+    - Encourages team communication
+    - Reduces bugs through peer review
+    - Maintains clean, high-quality codebase
+
 Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
