@@ -12,6 +12,13 @@ Explain the fundamental concepts of version control and why GitHub is a popular 
     - Centralized Version Control Systems (CVCS): One central server (e.g., Subversion)
     - Distributed Version Control Systems (DVCS): Each contributor has a full copy (e.g., Git)
 
+    # Key Features of Version Control:
+      1. History Tracking: View who changed what and when
+      2. Branching and Merging: Develop features or fix bugs in isolated branches, then merge changes
+      3. Collaboration: Multiple developers can work on the same codebase without overwriting each other
+      4. Backup: Every commit is a backup of the code at that point in time.
+
+
 
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
