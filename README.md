@@ -134,4 +134,22 @@ Discuss the concept of "forking" a repository on GitHub. How does forking differ
 
 Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
+    # Issues:
+    - Used to track bugs, tasks, or feature requests
+    - Each issue can have labels, assignees, milestones, comments
+
+    # Project Boards:
+    - Visualize work using Kanban-style boards
+    - Track progress (To Do → In Progress → Done)
+
+    # Examples: 
+    - Label issues as bug, enhancement, question
+    - Use boards to manage sprint tasks for a team
+
+    # Benefits:
+    - Promotes structured collaboration
+    - Improves transparency and accountability
+    - Enhances planning and tracking
+
+
 Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
