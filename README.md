@@ -6,13 +6,17 @@ Explain the fundamental concepts of version control and why GitHub is a popular 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 
     1. Log into GitHub and click the "+" icon > "New repository"
+    
     2. Fill in the repository name and optional description
+    
     3. Choose visibility: Public or Private
-       # Important decision to make.
+       # Important decision to make
+       
     4. Initialize with a README, .gitignore, and optionally a license
        # Whether to initialize with a README (recommended)
          Selecting a .gitignore template suited to your project (e.g., Node, Python)
          Choosing an open-source license if the project is public
+         
     5. Click “Create repository”
 
 Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
