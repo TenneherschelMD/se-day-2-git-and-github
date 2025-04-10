@@ -84,7 +84,9 @@ How does branching work in Git, and why is it an important feature for collabora
       3. Supports experimentation without risk
 
     # Workflow:
-    git checkout -b feature-xyz  # create & switch to new branch
+    
+    # create & switch to new branch
+      git checkout -b feature-xyz  
     
     # Make changes
       git add .
