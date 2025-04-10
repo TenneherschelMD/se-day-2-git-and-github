@@ -120,6 +120,18 @@ Explore the role of pull requests in the GitHub workflow. How do they facilitate
 
 Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
+    # Forking: Creates a copy of someone else's repo under your GitHub account
+
+    # Difference from Cloning:
+    - Fork: Public duplication for contributing or customizing (remote repo)
+    - Clone: Download to your local machine
+
+    # Use Cases/Scenarios:
+    1. Contributing to open-source projects
+    2. Experimenting without affecting the original repo
+    3. Maintaining a customized version of a project
+
+
 Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
