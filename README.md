@@ -62,10 +62,10 @@ Detail the steps involved in making your first commit to a GitHub repository. Wh
     - When they were made 
     - Who made them
 
-    # Commits matter because:
-    - Helps in tracking changes
-    - Allows you to roll back to previous versions
-    - Essential for collaborative version control
+    # Commits matter because they:
+    - Help in tracking changes
+    - Allow you to roll back to previous versions
+    - Are essential for collaborative version control
     
     # Steps in making the first commit to a GitHub repository:
     1. git init
